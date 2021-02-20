@@ -215,3 +215,7 @@ function totalCost(product) {
 
 
 ExistingCartNumbers();
+
+function message(){
+  alert('\n\nThankyou for supporting us... \n\nWe are happy to send you our news letter');
+}

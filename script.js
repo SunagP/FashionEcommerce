@@ -21,7 +21,7 @@ const slide=()=>{
   
 }
 
-
+// slide();
 
 var modal1=document.getElementById("myModal1");
 var modal2=document.getElementById("myModal2");
