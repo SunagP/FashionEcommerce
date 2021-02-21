@@ -975,7 +975,18 @@ nav {
 .basketTotal {
   width: 10%;
 }
+.cartBuy{
+  color: white;
+  margin-left: 50% ;
+  background-color: rgb(118, 118, 243);
+  width: 65px;font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.cartBuy:hover{
+  background-color: blue;
 
+}
 /* @media (max-width: 811px){
   .news{
   width: 50px;
@@ -986,3 +997,4 @@ nav {
   padding-bottom: 150px;
   }
 } */
+
